@@ -1,0 +1,15 @@
+.logo{
+    margin: 0;
+}
+
+.lista-nav {
+  display: flex;
+  list-style: none;
+  font-size: 25px;
+  gap: 10px;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
